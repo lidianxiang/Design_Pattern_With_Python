@@ -69,7 +69,7 @@
     + 状态模式
     + 策略模式
     + 访问者模式
-    + 模版方法模式
+    + [模版方法模式](https://github.com/lidianxiang/Design_Pattern_With_Python/blob/master/%E6%A8%A1%E7%89%88%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F/%E6%A8%A1%E7%89%88%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.md)
 
 
 
